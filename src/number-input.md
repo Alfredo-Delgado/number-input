@@ -1,5 +1,11 @@
-@page number-input
+@parent number-input
+@module {can.Component} number-input <number-input>
 
-# number-input
+A short description of the number-input component
 
-Number Input Plugin
+@signature `<number-input>`
+
+@body
+
+## Use
+
